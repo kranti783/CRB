@@ -1,4 +1,4 @@
-# Cauvery River Basin – GEE LULC Classification and Validation Data
+# Cauvery River Basin 
 
 This repository contains the Google Earth Engine (GEE) scripts and
 validation-point shapefiles used for land-use/land-cover (LULC) classification
